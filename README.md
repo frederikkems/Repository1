@@ -8,4 +8,4 @@ Text for my _very_ first subsection.
 Another subsection 🐒
 - Item 1 
 - Item 2
-- Item 3
+- Item 3 🦧
